@@ -1,0 +1,134 @@
+[{
+  "_id": {
+    "$oid": "644794b11a497c8684e42b4d"
+  },
+  "username": "Admin",
+  "email": "admin1234@gmail.com",
+  "password": "U2FsdGVkX199S5Vi/IlU7x3I88kc+CS6KI5xG5VA7ZA=",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682412721513"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682958886289"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64490d60c90f56971d0047e8"
+  },
+  "username": "User123",
+  "email": "user12345@gmail.com",
+  "password": "U2FsdGVkX19KYvgeVi+js7BBTY03thJEnC8ISGfCMKc=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682509152414"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682509152414"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644910f6c90f56971d004827"
+  },
+  "username": "User345",
+  "email": "user23432@gmail.com",
+  "password": "U2FsdGVkX18eY2Iz0yTLijtBg0vRPp3ZfB9oKLMS6nI=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682510070676"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682510070676"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64494463c90f56971d004a51"
+  },
+  "username": "User456",
+  "email": "user45678@gmail.com",
+  "password": "U2FsdGVkX18uMt+fett2pLvKsY0Ai3MkHC6/gKKdsbc=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682523235261"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682523235261"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6449446fc90f56971d004a53"
+  },
+  "username": "User457",
+  "email": "user45698@gmail.com",
+  "password": "U2FsdGVkX1+J7e4J0Wh0NXNneX5PuBJgkWCqXDkMctw=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682523247242"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682523247242"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644fd2b513198ced816844bf"
+  },
+  "username": "User987",
+  "email": "user98765@gmail.com",
+  "password": "U2FsdGVkX18m+rd8NK53DQJlZgkhGVadmZARi8ONLJo=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682952885065"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682952885065"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645134c6fd9bd90e1e417e49"
+  },
+  "username": "User001",
+  "email": "user00001@gmail.com",
+  "password": "U2FsdGVkX1+u4rcHx9jvUH57J6cW+kfvkTKsvGxsW/s=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1683043526689"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683044460486"
+    }
+  },
+  "__v": 0
+}]

@@ -1,0 +1,139 @@
+[{
+  "_id": {
+    "$oid": "644642ec2a9c5b33a75972ae"
+  },
+  "userId": "6444f921a46773b0fc690abc",
+  "productId": "644642e32a9c5b33a75972a4",
+  "quantity": 1,
+  "title": "Thỏ Bảy Màu Và Những Người Nghĩ Nó Là Bạn",
+  "img": "https://cdn0.fahasa.com/media/catalog/product/9/7/9786043561272_1_1.jpg",
+  "author": "HUỲNH THÁI NGỌC",
+  "year": "2023",
+  "price": 78,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682326252581"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682326252581"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644648260757dd05a8a617e5"
+  },
+  "userId": "644646502a9c5b33a75972d4",
+  "productId": "644641f22a9c5b33a7597293",
+  "quantity": 2,
+  "title": "Muốn An Được An",
+  "img": "https://cdn0.fahasa.com/media/catalog/product/i/m/image_234796.jpg",
+  "author": "Thích Nhất Hạnh",
+  "year": "2021",
+  "price": 49,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682327590921"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682412305283"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64476844bb98fdbe80f1f685"
+  },
+  "userId": "644646502a9c5b33a75972d4",
+  "productId": "644642e32a9c5b33a75972a4",
+  "quantity": 1,
+  "title": "Thỏ Bảy Màu Và Những Người Nghĩ Nó Là Bạn",
+  "img": "https://cdn0.fahasa.com/media/catalog/product/9/7/9786043561272_1_1.jpg",
+  "author": "HUỲNH THÁI NGỌC",
+  "year": "2023",
+  "price": 78,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682401348435"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682401348435"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645134e5fd9bd90e1e417e51"
+  },
+  "userId": "645134c6fd9bd90e1e417e49",
+  "productId": "644642e32a9c5b33a75972a4",
+  "quantity": 1,
+  "title": "Không Tự Khinh Bỉ Không Tự Phí Hoài",
+  "img": "https://cdn0.fahasa.com/media/catalog/product/k/h/khongtukhinhbi-khongtuphihoai.jpg",
+  "author": "Vãn Tình",
+  "year": "2023",
+  "price": 78,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1683043557082"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683043557082"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645134ebfd9bd90e1e417e5a"
+  },
+  "userId": "645134c6fd9bd90e1e417e49",
+  "productId": "64479185bb98fdbe80f1f776",
+  "quantity": 1,
+  "title": "Đừng Chỉ Đẹp Mà Không Hiểu Chuyện",
+  "img": "https://cdn0.fahasa.com/media/catalog/product/b/i/bia_dung-chi-dep-ma-khong-hieu-chuyen-1.jpg",
+  "author": "Mai Tử",
+  "year": "2017",
+  "price": 90,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1683043563398"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683043563398"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6452410727e6600847ff562d"
+  },
+  "userId": "644794b11a497c8684e42b4d",
+  "productId": "6447716fbb98fdbe80f1f6a3",
+  "quantity": 1,
+  "title": "Không Tự Khinh Bỉ Không Tự Phí Hoài",
+  "img": "https://cdn0.fahasa.com/media/catalog/product/k/h/khongtukhinhbi-khongtuphihoai.jpg",
+  "author": "Vãn Tình",
+  "year": "2017",
+  "price": 145,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1683112199795"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683112199795"
+    }
+  },
+  "__v": 0
+}]
